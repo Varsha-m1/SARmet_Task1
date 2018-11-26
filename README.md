@@ -1,8 +1,8 @@
 # SARmet_Task1
 
-##Objective: Utilize OpenCv skills to complete the given tasks
+## Objective: Utilize OpenCv skills to complete the given tasks
 
-###This repository contains a video with scene of vehicles captured from a vehicle dashboard. 
+###### This repository contains a video with scene of vehicles captured from a vehicle dashboard. 
 
 You are allowed to use any version of OpenCV with either C++/Python
 Preferably OpenCv >3 and Python >3
